@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from .scanner import get_security_headers
+from scanner import get_security_headers
 
 app = FastAPI()
 

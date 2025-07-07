@@ -4,3 +4,4 @@ bandit
 weasyprint
 openai
 requests
+GitPython
