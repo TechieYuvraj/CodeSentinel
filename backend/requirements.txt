@@ -5,3 +5,4 @@ weasyprint
 openai
 requests
 GitPython
+python-dotenv
